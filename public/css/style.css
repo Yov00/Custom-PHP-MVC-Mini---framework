@@ -1,0 +1,17 @@
+html,
+body{
+  background-color:rgb(4, 144, 132);
+}
+
+#get_rid_of_me{
+  width:90vw;
+  height:90vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+.instructions{
+  width:800px;
+  color: white;
+}
